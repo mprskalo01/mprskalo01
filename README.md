@@ -28,8 +28,8 @@ I'm a passionate Computer Science graduate and full stack developer with a keen 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.marioprskalo.dev/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mprskalo01"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.marioprskalo.dev/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ### 🏆 Achievements
