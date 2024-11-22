@@ -3,7 +3,7 @@
 
 ## 📖 About Me
 
-I'm a passionate Computer Science graduate and full stack developer with a keen eye for creating innovative technological solutions. My journey in software development is driven by curiosity, learning, and a desire to solve complex problems through code.
+I'm a Computer Science graduate and full stack developer with a keen eye for creating innovative technological solutions. My journey in software development is driven by curiosity, learning, and a desire to solve complex problems through code.
 
 ### 🚀 Tech Stack
 
@@ -23,7 +23,7 @@ I'm a passionate Computer Science graduate and full stack developer with a keen 
 
 - 💻 Full stack development with a focus on creating efficient and scalable applications
 - 🎓 Computer Science graduate with a strong theoretical and practical foundation
-- 🌐 Passionate about web technologies and innovative software solutions
+- 🌐 Exploring technologies and innovative software solutions
 
 ### 🔗 Connect With Me
 
