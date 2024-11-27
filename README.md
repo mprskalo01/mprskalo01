@@ -7,7 +7,7 @@
 ## About Me
 I'm a Computer Science graduate and Full Stack Developer creating innovative technological solutions. With a strong foundation in both theory and practice, I specialize in building efficient, scalable applications that solve real-world problems.
 
-## Technical Expertise
+## Technical Skills
 
 ### Frontend Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
