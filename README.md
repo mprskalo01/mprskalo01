@@ -38,6 +38,7 @@ I'm a Computer Science graduate and Full Stack Developer creating innovative tec
 - 🔄 CI/CD implementation
 - 🛡️ Security best practices
 - 📱 Responsive web development
+- 🏗️ System design principles
 
 ## Let's Connect
 <p>
