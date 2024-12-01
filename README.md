@@ -47,5 +47,3 @@ I'm a Computer Science graduate and Full Stack Developer creating innovative tec
 </p>
 
 ---
-
-<p align="center">Open to collaboration on innovative projects! 🚀</p>
