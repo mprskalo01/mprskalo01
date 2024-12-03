@@ -4,9 +4,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
 </h3>
 
-## About Me
-I'm a Computer Science graduate and Software creating innovative technological solutions. With a strong foundation in both theory and practice, I specialize in building efficient, scalable applications that solve real-world problems.
-
 ## Technical Skills
 
 ### Frontend Development
