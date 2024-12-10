@@ -1,9 +1,3 @@
-<h1 align="center">Mario Prskalo</h1>
-<h3 align="center">
-    Software Developer | Computer Science Graduate
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
-</h3>
-
 ## Technical Skills
 
 ### Frontend Development
