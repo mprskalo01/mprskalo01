@@ -21,17 +21,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
 ### DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=badge&logo=Jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=badge&logo=Kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=badge&logo=Google%20Cloud&logoColor=white)
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+
 
 ## Professional Focus
 - 🎯 Building scalable full-stack applications
