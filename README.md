@@ -20,7 +20,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)
 
 ### DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=badge&logo=git&logoColor=white)
