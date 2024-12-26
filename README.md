@@ -36,6 +36,9 @@
 - 📱 Responsive development
 - 🏗️ System design principles
 
+## Deployed apps
+<a href="https://mprskalo01.github.io/the-odin-calculator/" target="_blank">TypeScript Calculator</a>
+
 ## Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/mprskalo01"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
