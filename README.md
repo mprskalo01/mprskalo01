@@ -12,6 +12,7 @@
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/-Java-007396?style=badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=badge&logo=spring-boot&logoColor=white)
 
