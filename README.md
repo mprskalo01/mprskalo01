@@ -39,4 +39,3 @@
 
 ## Deployed apps
 <a href="https://mprskalo01.github.io/the-odin-calculator/" target="_blank" rel="noopener noreferrer">TypeScript Calculator</a>
----
