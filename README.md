@@ -39,11 +39,4 @@
 
 ## Deployed apps
 <a href="https://mprskalo01.github.io/the-odin-calculator/" target="_blank" rel="noopener noreferrer">TypeScript Calculator</a>
-
-## Let's Connect
-<p>
-  <a href="https://www.linkedin.com/in/mprskalo01"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.marioprskalo.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
 ---
