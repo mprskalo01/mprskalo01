@@ -7,7 +7,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=badge&logo=tailwind-css&logoColor=38B2AC)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
 
 
 ### Backend Development
@@ -27,6 +26,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=badge&logo=Jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=badge&logo=Kubernetes&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)
 
 
 ## Professional Focus
