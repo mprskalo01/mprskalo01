@@ -38,4 +38,5 @@
 - 🏗️ System design principles
 
 ## Deployed apps
-<a href="https://mprskalo01.github.io/the-odin-calculator/" target="_blank" rel="noopener noreferrer">TypeScript Calculator</a>
+- 🍴 <a href="https://mprskalo01-forkify.netlify.app/" target="_blank" rel="noopener noreferrer">TypeScript Forkify</a>
+- 🧮 <a href="https://mprskalo01.github.io/the-odin-calculator/" target="_blank" rel="noopener noreferrer">TypeScript Calculator</a>
