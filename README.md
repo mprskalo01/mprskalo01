@@ -23,6 +23,7 @@
 
 ### DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?style=badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=badge&logo=Jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=badge&logo=Kubernetes&logoColor=white)
