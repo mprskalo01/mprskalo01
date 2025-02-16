@@ -41,5 +41,6 @@
 ## Deployed apps
 - 💹 <a href="https://frontend-dashboard-mprskalo01.netlify.app/" target="_blank" rel="noopener noreferrer">React + TypeScript Dashboard</a>
 - 🍴 <a href="https://mprskalo01-forkify.netlify.app/" target="_blank" rel="noopener noreferrer">TypeScript Forkify</a>
+- 🤓 <a href="https://the-react-quiz-mprskalo01.netlify.app/" target="_blank" rel="noopener noreferrer">The React Quiz</a>
 - 🧮 <a href="https://mprskalo01.github.io/the-odin-calculator/" target="_blank" rel="noopener noreferrer">TypeScript Calculator</a>
 
